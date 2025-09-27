@@ -1,0 +1,24 @@
+{
+  "id": "smoke-and-sails",
+  "title": "Smoke and Sails",
+  "description": "A simple module template for smoke and sails",
+  "authors": [
+    {
+      "name": "zarex97"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": ["scripts/todo-list.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": ["styles/todo-list.css"]
+}
